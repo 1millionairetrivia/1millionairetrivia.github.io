@@ -110,3 +110,12 @@ google.com, pub-7292818793555877, RESELLER
 telaria.com, rwd19-2083396, RESELLER, 1a4e959a1b50034a
 
 tremorhub.com, rwd19-2083396, RESELLER, 1a4e959a1b50034a
+
+
+unity.com, 1263436, DIRECT, 96cabb5fbdde37a7
+
+google.com, pub-3654806308755363, RESELLER
+
+telaria.com, rwd19-1263436, RESELLER, 1a4e959a1b50034a
+
+tremorhub.com, rwd19-1263436, RESELLER, 1a4e959a1b50034a
