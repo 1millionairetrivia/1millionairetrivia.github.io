@@ -340,4 +340,6 @@ inmobi.com, 22e5354e453f49348325184e25464adb, RESELLER
 contextweb.com, 562827, RESELLER
 lijit.com, 273644, RESELLER
 lkqd.net, 654, RESELLER
-
+google.com, pub-7292818793555877, RESELLER, f08c47fec0942fa0
+inmobi.com, 7847fe1f9ac54b4abe609cde4011243b, RESELLER, 83e75a7ae333ca9d
+Xapads.com, 155860, RESELLER
