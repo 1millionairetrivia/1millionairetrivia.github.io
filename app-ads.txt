@@ -687,3 +687,16 @@ sharethrough.com, 5294, RESELLER, d53b998a7bd4ecd2
 onairglobal.com, 4357629, RESELLER
 loopme.com, 11561, RESELLER, 6c8d5f95897a5a3b
 carbonatix.com, 14840966, RESELLER
+copper6.com, 766114, RESELLER
+
+improvedigital.com, 2534, RESELLER
+
+improvedigital.com, 2609, RESELLER
+
+lijit.com, 558045, RESELLER, fafdf38b16bf6b2b
+
+pubmatic.com, 166078, RESELLER, 5d62403b186f2ace
+
+video.unrulymedia.com, 389957698, RESELLER
+
+zmaticoo.com, 5135063, RESELLER
